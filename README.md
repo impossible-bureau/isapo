@@ -4,6 +4,8 @@ A very tiny function for testing zipcodes and state codes to determine if they'r
 
 [![Build Status](https://travis-ci.org/impossible-bureau/isapo.svg?branch=master)](https://travis-ci.org/impossible-bureau/isapo) [![dependencies Status](https://david-dm.org/impossible-bureau/isapo/status.svg)](https://david-dm.org/impossible-bureau/isapo) [![devDependencies Status](https://david-dm.org/impossible-bureau/isapo/dev-status.svg)](https://david-dm.org/impossible-bureau/isapo?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
+Sponsored by [Falcon Northwest](https://www.falcon-nw.com/) and [Impossible Bureau](http://www.impossible-bureau.com/)
+
 **Simple example of how to use isapo library**
 
 It's simple!

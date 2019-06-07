@@ -1,6 +1,6 @@
 {
   "name": "isapo",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A simply utility method for checking if a zip or state code is APO (Military). Useful for shipping methods that need to determine if USPS should be used.",
   "main": "./lib/index.js",
   "scripts": {

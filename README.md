@@ -2,11 +2,22 @@
 
 [![Build Status](https://travis-ci.org/flexdinesh/npm-module-boilerplate.svg?branch=master)](https://travis-ci.org/flexdinesh/npm-module-boilerplate) [![dependencies Status](https://david-dm.org/flexdinesh/npm-module-boilerplate/status.svg)](https://david-dm.org/flexdinesh/npm-module-boilerplate) [![devDependencies Status](https://david-dm.org/flexdinesh/npm-module-boilerplate/dev-status.svg)](https://david-dm.org/flexdinesh/npm-module-boilerplate?type=dev) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-**Start developing your NPM module in seconds** ✨
+**Simple example of how to use the isAPO library**
 
-Readymade boilerplate setup with all the best practices to kick start your npm/node module development.
+It's simple!
 
-Happy hacking =)
+```
+import isZipAPO, { isStateAPO } from '../src';
+
+isApo(340345) // returns true
+isApo(84111) // returns false
+
+isZipApo('WA') // returns false
+isZipApo('AA') // returns true
+```
+
+
+
 
 # Features
 

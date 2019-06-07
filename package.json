@@ -1,7 +1,7 @@
 {
-  "name": "npm-module-boilerplate",
-  "version": "1.0.0",
-  "description": "Boilerplate for npm modules with ES6 features and syntax",
+  "name": "isapo",
+  "version": "0.1",
+  "description": "A simply utility method for checking if a zip or state code is APO (Military). Useful for shipping methods that need to determine if USPS should be used.",
   "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
@@ -21,21 +21,22 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexdinesh/npm-module-boilerplate.git"
+    "url": "git+https://github.com/impossible-bureau/isapo.git"
   },
   "keywords": [
-    "boilerplate",
     "npm",
     "module",
     "node",
-    "javascript"
+    "javascript",
+    "shipping",
+    "apo"
   ],
-  "author": "Dinesh Pandiyan <flexdinesh@gmail.com>",
+  "author": "Impossible Bureau <hi@impossible-bureau.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flexdinesh/npm-module-boilerplate/issues"
+    "url": "https://github.com/impossible-bureau/isapo/issues"
   },
-  "homepage": "https://github.com/flexdinesh/npm-module-boilerplate#readme",
+  "homepage": "https://github.com/impossible-bureau/isapo#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^10.0.1",

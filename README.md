@@ -11,7 +11,7 @@ Sponsored by [Falcon Northwest](https://www.falcon-nw.com/) and [Impossible Bure
 It's simple!
 
 ```
-import isZipAPO, { isStateAPO } from '../src';
+import isZipAPO, { isStateAPO } from 'isapo';
 
 isApo(340345) // returns true
 isApo(84111) // returns false
